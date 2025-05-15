@@ -17,4 +17,4 @@ c) Assembly based
 4) CheckM - Assessing the quality of binned file
 5) GTDB-tk - Taxonomic annotation of binned sequences
 
-Note - I had ran couple of tools directly in command-line (CLI) without script because either it was simple one line command or not able to not produce the required output through loops or requires working in separate portal. Notably FASTQc/MultiQC and read-based analysis.
+Note - I had ran couple of tools directly in command-line (CLI) without script because either it was simple one line command which did not needed a separate script or not able to not produce the required output through loops or requires working in separate portal. Notably FASTQc/MultiQC and read-based analysis and Taxonomic annotation in Assembly based.
